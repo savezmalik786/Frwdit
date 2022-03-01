@@ -7,7 +7,7 @@ Only Give Permission In your Telegram Personal Channel
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @DforDarkAngel
+(C) @sahid_malik
 Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
