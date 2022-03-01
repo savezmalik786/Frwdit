@@ -14,7 +14,7 @@
   "repository": "https://github.com/Jijinr/Frwdit",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get this value from https://my.telegram.org or @sahid_malik",
       "value": ""
     },
     "API_HASH": {
